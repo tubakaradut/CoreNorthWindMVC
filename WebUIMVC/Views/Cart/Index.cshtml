@@ -1,0 +1,51 @@
+﻿@model CartListVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Sepetiniz</h1>
+@if (Model.Cart.CartLines.Count == 0)
+{
+    <h2 class="badge badge-danger">Sepetiniz Boş</h2>
+}
+else
+{
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Ürün Adı</th>
+                <th>Ürün Açıklama</th>
+                <th>Ürün Fiyat</th>
+                <th>Ürün Stok</th>
+                <th>Satış Adedi</th>
+            </tr>
+        </thead>
+        @foreach (var cartline in Model.Cart.CartLines)
+        {
+
+            <tbody>
+                <tr>
+                    <td>@cartline.Product.ProductId</td>
+                    <td>@cartline.Product.ProductName</td>
+                    <td>@cartline.Product.QuantityPerUnit</td>
+                    <td>@cartline.Product.UnitPrice</td>
+                    <td>@cartline.Product.UnitsInStock</td>
+                    <td>@cartline.Quantity</td>
+
+                    <td><a class="btn btn-sm btn-danger" asp-action="RemoveFromCart" asp-controller="Cart" asp-route-productId="@cartline.Product.ProductId">Sepetten Çıkar</a></td>
+
+                </tr>
+            </tbody>
+        }
+     
+    </table>
+
+    <div class="row">
+        <div class="col-9">
+            <a class="btn btn-dark" asp-action="Complete" asp-controller="Cart"> Alışverişi Tamamla </a>
+        </div>
+    </div>
+
+}
