@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5s7cCttsHsFvPB3OmEVjm5TT8+7Z9B1SiWUrX4jzKCQh1o++h92QVGhve8QOZ8WSnvrLuh5wM8uXaVMM9vyfg==",
+  "dgSpecHash": "Cx2tE6IZvBu8HjhTcSN0VtUVE1nP6cuXZKqRTLpbxTL5+k2+ypLKr7QaZO5NZYAKiB7jXms9ZzUh7MEjKgOTwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\WebUIMVC\\WebUIMVC.csproj",
+  "projectFilePath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\WebUIMVC\\WebUIMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tuba\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\Tuba\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

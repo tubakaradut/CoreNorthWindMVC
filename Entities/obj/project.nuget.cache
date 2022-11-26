@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VFR+YJQ/1m7BseufFPHKkxEpfRYjB5uSWeR0C0Ja98htKOCHgroJbwqqdUcbGUnpm7jlOU8e7KM79zGXlgmAQA==",
+  "dgSpecHash": "CQRUMUr9gJLKPwO8kfVsaLHcwgzwNNENlUO/qp3lzglJ1wzCO5WYm7IAieWdjRc4M/4gFFdyIrCWw5RNgojkHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tuba\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Tuba\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

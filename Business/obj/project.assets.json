@@ -5152,11 +5152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Tuba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5177,11 +5177,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Tuba\\Desktop\\CoreNorthWindMVC\\Entities\\Entities.csproj"
+            "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Tuba\\Desktop\\Projem\\CoreNorthWindMVC\\Entities\\Entities.csproj"
             }
           }
         }
