@@ -17,3 +17,13 @@ C:\Users\Tuba\Desktop\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Microsoft.As
 C:\Users\Tuba\Desktop\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.xml
 C:\Users\Tuba\Desktop\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.xml
 C:\Users\Tuba\Desktop\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tuba\Desktop\Projem\CoreNorthWindMVC\Core\obj\Debug\netcoreapp3.1\Core.pdb

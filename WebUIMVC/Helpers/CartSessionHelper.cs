@@ -10,7 +10,7 @@ namespace WebUIMVC.Helpers
 {
     public class CartSessionHelper : ICartSessionHelper
     {
-        IHttpContextAccessor _httpContextAccessor;
+        private IHttpContextAccessor _httpContextAccessor;
 
         public CartSessionHelper(IHttpContextAccessor httpContextAccessor)
         {

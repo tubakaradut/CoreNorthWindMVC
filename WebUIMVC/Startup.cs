@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
 using System.Reflection;
 using WebUIMVC.Helpers;
 
@@ -34,7 +35,10 @@ namespace WebUIMVC
             services.AddScoped<ICartService, CartManager>();
             services.AddScoped<ICartSessionHelper, CartSessionHelper>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddSession();
+
+            services.AddSession(option=>option.IdleTimeout = TimeSpan.FromMinutes(1));
+
+            //services.
 
             services.AddControllersWithViews().AddFluentValidation(option => option.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
         }
